@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel Peterson</h1>
 <h3 align="center">I build complex systems as simple products for the users.</h3>
 
-- 🔭 I’m currently working on [STRIDES](https://cloud.nih.gov)
+- 🧬 I’m currently working on [STRIDES](https://cloud.nih.gov)
 
 - 💬 Ask me about **Amazon Web Services, Google Cloud Platform, Microsoft Azure**
 
