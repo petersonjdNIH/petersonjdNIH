@@ -3,7 +3,7 @@
 
 - 🧬 I’m currently working on [STRIDES](https://cloud.nih.gov)
 
-- 💬 Ask me about **Amazon Web Services, Google Cloud Platform, Microsoft Azure**
+- 💬 Ask me about **Amazon Web Services, GitHub, Google Cloud Platform, Microsoft Azure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
