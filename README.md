@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel Peterson</h1>
 <h3 align="center">I build complex systems as simple products for the users.</h3>
 
-- 🧬 I’m currently working at [Advanced Research Projects Agency for Health (ARPA-H)](https://arpa-h.gov)
+- 🧬 I’m currently working at [Advanced Research Projects Agency for Health (ARPA-H)](https://github.com/arpa-h) & the [Department of Health and Human Services](https://github.com/hhs).
 
 - 💬 Ask me about all things **Apple, GitHub, Google, and Microsoft**, there's also a few dozen cloud providers I know about too.
 
